@@ -41,7 +41,7 @@ Puoi vedere una selezione di progetti già completati qui:
 Vuoi una piscina su misura in Sicilia? Scrivici:  
 
 - 🌐 [www.ssgpiscine.com](https://www.ssgpiscine.com/)  
-- 📧 Email: info@ssgpiscine.com  
+- 📧 Email: piscinessg@gmail.com
 - 📍 Sede: Sicilia  
 
 ---
